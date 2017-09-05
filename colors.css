@@ -1,0 +1,23 @@
+/* Check out different colors here: https://www.materialpalette.com/ */
+
+.box {
+  min-height: 100px;
+  width: 100%;
+}
+
+.orange {
+	  background-color:FF6600;
+	  min-height:25px;
+}
+
+.dark_blue {
+  background-color:003399;
+}
+
+.red {
+  background-color:#CC0000;
+}
+
+.green {
+  background-color: #339900;
+}
