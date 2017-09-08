@@ -5,19 +5,39 @@
   width: 100%;
 }
 
-.orange {
-	  background-color:FF6600;
+.white {
+	  background-color: #fff;
 	  min-height:25px;
 }
 
-.dark_blue {
-  background-color:003399;
+.light_green {
+  background-color: #2a457a;
+   width: 25%;
+ height:40vh;
+  display: inline-block;
+
 }
 
-.red {
-  background-color:#CC0000;
+.yellow {
+  background-color: #099dd9;
+   width: 15%;
+ height:40vh;
+  display: inline-block;
+
 }
 
 .green {
-  background-color: #339900;
+  background-color: #0c8542;
+   width: 15%;
+ height:40vh;
+  display: inline-block;
+
 }
+
+.red { 
+  background-color: #FF0000;
+  width: 35%;
+ height:40vh;
+  display: inline-block;
+}
+
