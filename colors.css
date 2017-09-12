@@ -6,38 +6,44 @@
 }
 
 .white {
-	  background-color: #fff;
+	  background-color: #F8F8FF;
 	  min-height:25px;
 }
 
-.light_green {
-  background-color: #2a457a;
+.pink {
+  background-color: #C71585;
    width: 25%;
  height:40vh;
-  display: inline-block;
+ display: inline-block;
 
 }
 
-.yellow {
-  background-color: #099dd9;
-   width: 15%;
+.darkblue {
+ background-color: #099dd9;
+ width: 25%;
  height:40vh;
-  display: inline-block;
+ display: inline-block;
 
 }
 
 .green {
-  background-color: #0c8542;
-   width: 15%;
+ background-color: #0c8542;
+ width: 30%;
  height:40vh;
-  display: inline-block;
+ display: inline-block;
 
 }
 
 .red { 
-  background-color: #FF0000;
-  width: 35%;
+ background-color: #FF0000;
+ width: 35%;
  height:40vh;
-  display: inline-block;
+ display: inline-block;
+}
+ .orange{ 
+ background-color: #FF8C00;
+ width: 45%;
+ height:40vh;
+ display: inline-block;
 }
 
